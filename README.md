@@ -7,5 +7,8 @@
 1. [Sqlx](https://github.com/launchbadge/sqlx/releases)
 1. [Sled](https://github.com/spacejam/sled/releases)
 
-### Others
+### Go
 1. [pdp11](https://github.com/davecheney/pdp11/releases)
+
+### Other
+1. [DeepSpeech](https://github.com/mozilla/DeepSpeech/releases)
